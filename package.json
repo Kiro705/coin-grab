@@ -1,0 +1,27 @@
+{
+  "name": "coin-grab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "phaser": "^2.6.2",
+    "volleyball": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/app.js",
+    "dev": "nodemon server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiro705/coin-grab.git"
+  },
+  "author": "Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiro705/coin-grab/issues"
+  },
+  "homepage": "https://github.com/Kiro705/coin-grab#readme"
+}
